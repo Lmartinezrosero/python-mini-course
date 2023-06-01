@@ -1,0 +1,13 @@
+DAY 1
+Power Point: https://mebergen-my.sharepoint.com/:p:/g/personal/lnam_me_bergen_edu/EQzyBNYMrLBFn-2RmQzXmlYBr9kHoG5EHp1VvSg5-55wRw?e=kVejmP
+
+Hello everyone!
+Welcome to Introduction to Python Mini-Course. 
+
+Advanced vs Beginner
+1. Can you sort a list?
+2. Are you comfortable with algebra?
+3. Have you taken CIS265 or INF103?
+
+2-3 YES -> Advanced
+0-1 YES -> Beginner
